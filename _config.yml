@@ -1,0 +1,28 @@
+name: 'This Is Happening '
+favicon: null
+layout_spectrum: 0.9914087103679776
+typography_spectrum: 0.0058705618139356375
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.34480223595164716
+  lightness: 0.3054059031419456
+  saturation: 0.7555534262210131
+  rhythmicContrast: 0.04820597264915705
+purpose: []
