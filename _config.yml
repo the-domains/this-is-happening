@@ -1,6 +1,6 @@
 name: 'This Is Happening '
 favicon: null
-layout_spectrum: 0.25723
+layout_spectrum: 0.50385
 typography_spectrum: 0.0058705618139356375
 title: 'Starring James Wolk, Mickey Sumner, and Cloris Leachman'
 cta:
@@ -22,7 +22,7 @@ color:
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
-  brandStrength: 0.34480223595164716
+  brandStrength: 0.5
   lightness: 0.3054059031419456
   saturation: 0.7555534262210131
   rhythmicContrast: 0.5
