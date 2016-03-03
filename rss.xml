@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[This Is Happening ]]></title>
-        <description><![CDATA[This Is Happening ]]></description>
+        <title><![CDATA[Starring James Wolk, Mickey Sumner, and Cloris Leachman]]></title>
+        <description><![CDATA[Starring James Wolk, Mickey Sumner, and Cloris Leachman]]></description>
         <link>https://thegrid.ai/this-is-happening/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Mar 2016 05:39:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2016 05:45:12 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/this-is-happening/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7955d5c5-50f4-493c-8e3b-f34fae7f930a.png">]]></description>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/81bf05e2-0e39-4c2f-80df-c02911bfa529.JPG">]]></description>
             <link>https://thegrid.ai/this-is-happening/0ba9fea8-f5e7-4033-a4ec-c2f93db41356/index.html</link>
             <guid isPermaLink="false">0ba9fea8-f5e7-4033-a4ec-c2f93db41356</guid>
-            <pubDate>Thu, 03 Mar 2016 05:38:33 GMT</pubDate>
+            <pubDate>Thu, 03 Mar 2016 05:44:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
